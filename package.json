@@ -1,0 +1,70 @@
+{
+  "name": "evondev-snippets-tailwindcss",
+  "displayName": "Evondev snippets tailwindcss",
+  "description": "Useful HTML CSS snippets for Frontend Developer",
+  "publisher": "evondev-tailwindcss",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Darling-coding/Evondev-snippets-tailwindcss.git"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "styled-css",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "source.css.styled",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/ui.code-snippets"
+      },
+      {
+        "language": "svelte",
+        "path": "./snippets/html.code-snippets"
+      },
+      {
+        "language": "svelte",
+        "path": "./snippets/ui.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/javascriptreact.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/javascriptreact.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/javascriptreact.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/javascriptreact.code-snippets"
+      }
+    ]
+  }
+}
