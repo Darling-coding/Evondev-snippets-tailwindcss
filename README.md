@@ -1,3 +1,7 @@
+# Author: [Evondev](https://evondev.com/)
+
+---
+
 # evondev-snippets README
 
 Useful HTML and CSS snippets that will help you save a lot of time when coding.
